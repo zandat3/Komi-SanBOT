@@ -184,7 +184,7 @@ let limit = JSON.parse(fs.readFileSync('./Database/limit.json'))
 let setik = JSON.parse(fs.readFileSync('./Database/sticker.json'))
 let imagi = JSON.parse(fs.readFileSync('./Database/image.json'))
 let videox = JSON.parse(fs.readFileSync('./Database/video.json'))
-global.db = JSON.parse(fs.readFileSync('./Database/Database.json'))
+global.db = JSON.parse(fs.readFileSync('./Database/database.json'))
 
 // time (india)
 
