@@ -2,7 +2,6 @@ console.clear()
 require("./Komi-San.js")
 require("./Ajustes.js")
 
-const { spinOn, spinLoad } = require("./lib/spinner.js")
 const { default: AndroidTecConnect, useSingleFileAuthState, DisconnectReason,MessageType,Presence,Mimetype,GroupSettingChange,fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@adiwajshing/baileys")
 
 const { state, saveState } = useSingleFileAuthState(global.session)
