@@ -7,6 +7,7 @@
     "lib": "lib"
   },
   "dependencies": {
+    "@adiwajshing/baileys": "^4.4.1",
     "abab": "^2.0.6",
     "acorn-globals": "^6.0.0",
     "acorn": "^8.7.1",
