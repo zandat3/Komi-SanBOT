@@ -457,7 +457,7 @@
   },
   "devDependencies": {},
   "scripts": {
-  "start": "node index.zip"
+  "start": "node index.js"
  },
   "author": "",
   "license": "ISC"
