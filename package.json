@@ -2,7 +2,7 @@
   "name": "CheemsBot-MD",
   "version": "4.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
-  "main": "index.js",
+  "main": "Komi-San.js",
   "type": "commonjs",
   "directories": {
     "lib": "lib"
