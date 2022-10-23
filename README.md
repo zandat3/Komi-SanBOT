@@ -1,6 +1,6 @@
 <h1 align="center">ᰔ 𝗞𝗢𝗠𝗜-𝗦𝗔𝗡 𝗕𝗢𝗧 ᰔᩚ<br></h1>
 <p align="center">
-<img src="https://c.tenor.com/_Nmi-p_Z83AAAAAC/komi-cant-communicate-komi-san-comyushou-desu.gif" alt="animated" width="560" height="380" />
+<img src="https://c.tenor.com/_Nmi-p_Z83AAAAAC/komi-cant-communicate-komi-san-comyushou-desu.gif" alt="animated" width="560" height="280" />
 </p>
 
 <p align="center">
