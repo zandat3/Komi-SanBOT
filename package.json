@@ -65,9 +65,9 @@
     "scrape-primbon": "^1.1.0",
     "util": "^0.12.4",
     "yargs": "^17.2.1",
+    "wa-sticker-formatter": "^3.6.0",
     "xfarr-api": "^1.0.2",
     "yt-search": "^2.10.2"
-    "wa-sticker-formatter": "^3.6.0",
   },
   "directories": {
     "lib": "lib",
