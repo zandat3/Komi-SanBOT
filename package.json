@@ -2,11 +2,23 @@
   "name": "CheemsBot-MD",
   "version": "4.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
-  "main": "Komi-San.js",
+  "main": "index.js",
   "type": "commonjs",
-  "directories": {
-    "lib": "lib"
+  "scripts": {
+    "start": "node index.js"
   },
+  "keywords": [
+    "termux",
+    "whatsapp",
+    "2022",
+    "base",
+    "baileys-md",
+    "bot",
+    "bot-md",
+    "multi-device"
+  ],
+  "author": "Xeon",
+  "license": "MIT",
   "dependencies": {
      "@adiwajshing/baileys": "^4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -463,10 +475,16 @@
     "yt-search": "^2.10.3",
     "y18n": "^5.0.8"
   },
+  "directories": {
+    "lib": "lib",
+  },
   "devDependencies": {},
-  "scripts": {
-  "start": "node index.js"
- },
-  "author": "",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DGXeon/CheemsBot-MD4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DGXeon/CheemsBot-MD4/issues"
+  },
+  "homepage": "https://github.com/DGXeon/CheemsBot-MD4#readme"
 }
