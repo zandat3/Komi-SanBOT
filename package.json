@@ -296,7 +296,7 @@
     "mute-stream": "^0.0.8",
     "music-metadata": "^7.12.3",
     "next-tick": "^1.1.0",
-    "nickname generator": "^1.1.1",
+    "nickname-generator": "^1.1.1",
     "node-cache": "^5.1.2",
     "node-bitmap": "^0.0.1",
     "ndarray-pack": "^1.2.1",
