@@ -65,6 +65,7 @@
   "node-id3": "^0.2.3",
   "node-webpmux": "^3.1.0",
   "node-youtube-music": "^0.7.0",
+  "nickname-generator": "^1.1.1",
   "rumus-bdr": "^1.0.0",
   "mongoose": "^6.2.1",
   "google-tts-api": "^2.0.2",
