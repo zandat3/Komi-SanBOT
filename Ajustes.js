@@ -32,13 +32,13 @@ global.navegador = 'Safari'
 //OWNER DEL BOT 🤵🏻
 
 //nombre del owner
-global.ownername = "Android Tec"
+global.ownername = "Gabby"
 
 //numero del owner
-global.owner = ['51921253876']
+global.owner = ['254106516012']
 
 //tag del owner
-global.ownertag = ['51921253876'] 
+global.ownertag = ['254106516012'] 
 
 //locación del owner
 global.location = "Peru"
