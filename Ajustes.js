@@ -35,16 +35,16 @@ global.navegador = 'Safari'
 global.ownername = "Gabby"
 
 //numero del owner
-global.owner = ['254106516012']
+global.owner = ['254719316198']
 
 //tag del owner
-global.ownertag = ['254106516012'] 
+global.ownertag = ['254719316198'] 
 
 //locación del owner
-global.location = "Peru"
+global.location = "Kenya"
 
 //emoji del pais
-global.paisicon = "🇵🇪"
+global.paisicon = "🇰🇪"
 
 //FIN OWNER DEL BOT 🤵🏻
 //-------------------------------------//
